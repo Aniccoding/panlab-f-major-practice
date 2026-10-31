@@ -2,6 +2,21 @@
 
 Panlab 七人手碟合奏練習曲下載頁。
 
+[開啟手機下載頁](https://aniccoding.github.io/panlab-f-major-practice/)
+
+## 專案記憶與 Codex 接手
+
+另一個 Codex session 開啟此 repository 時，先讀 [AGENTS.md](AGENTS.md) 及 [專案知識索引](docs/README.md)。完整保存作曲風格、本曲規格、七人音庫、對話更正、參考譜研究及交付工作流程。
+
+- [長期作曲與編曲風格](docs/COMPOSITION_STYLE.md)
+- [現行 17 小節練習曲](docs/CURRENT_PROJECT.md)
+- [七位演奏者與可用音](docs/INSTRUMENTS.md)
+- [決策與更正紀錄](docs/DECISIONS.md)
+
+2026-10-31 最新一輪只更新知識文件，沒有再次修改樂譜或音訊。
+
+## 作品
+
 Composed by Hailey.S and Ting Ho Fung @Panlab Limited
 
 © 2026 Panlab Limited. All Rights Reserved.

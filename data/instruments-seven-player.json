@@ -1,0 +1,609 @@
+{
+  "schema_version": 1,
+  "profile_id": "panlab-f-major-seven-player-project-2026-10-31",
+  "source": "Exact note sets verified from the installed Panlab seven-player MCP profile; project credit, copyright and Bass 2 clef overrides confirmed by the user. Updated 2026-10-31 Asia/Hong_Kong.",
+  "pitch_standard": "concert pitch; C4=MIDI60; enharmonic identity; no octave extension",
+  "copyright": "© 2026 Panlab Limited. All Rights Reserved.",
+  "default_credit": {
+    "role": "composer",
+    "name": "Hailey.S and Ting Ho Fung @Panlab Limited"
+  },
+  "default_title": "F Major — Ensemble Practice",
+  "players": [
+    {
+      "id": "soprano_1",
+      "part_id": "P_soprano_1",
+      "name": "Soprano 1",
+      "default_clef": "treble",
+      "handpans": [
+        {
+          "name": "C4 handpan",
+          "notes": [
+            "C4",
+            "D4",
+            "E4",
+            "F4",
+            "G4",
+            "A4",
+            "B4",
+            "C5",
+            "D5",
+            "E5",
+            "F5",
+            "G5",
+            "A5"
+          ]
+        },
+        {
+          "name": "B3 handpan",
+          "notes": [
+            "B3",
+            "C#4",
+            "D#4",
+            "E4",
+            "F#4",
+            "G#4",
+            "A#4",
+            "B4",
+            "C#5",
+            "D#5",
+            "E5",
+            "F#5",
+            "G#5"
+          ]
+        }
+      ],
+      "allowed_notes": [
+        "B3",
+        "C4",
+        "C#4",
+        "D4",
+        "D#4",
+        "E4",
+        "F4",
+        "F#4",
+        "G4",
+        "G#4",
+        "A4",
+        "A#4",
+        "B4",
+        "C5",
+        "C#5",
+        "D5",
+        "D#5",
+        "E5",
+        "F5",
+        "F#5",
+        "G5",
+        "G#5",
+        "A5"
+      ],
+      "allowed_midi": [
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81
+      ],
+      "range": {
+        "lowest": "B3",
+        "highest": "A5",
+        "lowest_midi": 59,
+        "highest_midi": 81
+      }
+    },
+    {
+      "id": "soprano_2",
+      "part_id": "P_soprano_2",
+      "name": "Soprano 2",
+      "default_clef": "treble",
+      "handpans": [
+        {
+          "name": "C4 handpan",
+          "notes": [
+            "C4",
+            "D4",
+            "E4",
+            "F4",
+            "G4",
+            "A4",
+            "B4",
+            "C5",
+            "D5",
+            "E5",
+            "F5",
+            "G5",
+            "A5"
+          ]
+        },
+        {
+          "name": "B3 handpan",
+          "notes": [
+            "B3",
+            "C#4",
+            "D#4",
+            "E4",
+            "F#4",
+            "G#4",
+            "A#4",
+            "B4",
+            "C#5",
+            "D#5",
+            "E5",
+            "F#5",
+            "G#5"
+          ]
+        }
+      ],
+      "allowed_notes": [
+        "B3",
+        "C4",
+        "C#4",
+        "D4",
+        "D#4",
+        "E4",
+        "F4",
+        "F#4",
+        "G4",
+        "G#4",
+        "A4",
+        "A#4",
+        "B4",
+        "C5",
+        "C#5",
+        "D5",
+        "D#5",
+        "E5",
+        "F5",
+        "F#5",
+        "G5",
+        "G#5",
+        "A5"
+      ],
+      "allowed_midi": [
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81
+      ],
+      "range": {
+        "lowest": "B3",
+        "highest": "A5",
+        "lowest_midi": 59,
+        "highest_midi": 81
+      }
+    },
+    {
+      "id": "d_celtic",
+      "part_id": "P_d_celtic",
+      "name": "D Celtic",
+      "default_clef": "grand",
+      "handpans": [
+        {
+          "name": "D Celtic",
+          "notes": [
+            "D3",
+            "F3",
+            "G3",
+            "A3",
+            "Bb3",
+            "C4",
+            "D4",
+            "E4",
+            "F4",
+            "G4",
+            "A4",
+            "C5",
+            "D5",
+            "E5",
+            "F5"
+          ]
+        }
+      ],
+      "allowed_notes": [
+        "D3",
+        "F3",
+        "G3",
+        "A3",
+        "Bb3",
+        "C4",
+        "D4",
+        "E4",
+        "F4",
+        "G4",
+        "A4",
+        "C5",
+        "D5",
+        "E5",
+        "F5"
+      ],
+      "allowed_midi": [
+        50,
+        53,
+        55,
+        57,
+        58,
+        60,
+        62,
+        64,
+        65,
+        67,
+        69,
+        72,
+        74,
+        76,
+        77
+      ],
+      "range": {
+        "lowest": "D3",
+        "highest": "F5",
+        "lowest_midi": 50,
+        "highest_midi": 77
+      }
+    },
+    {
+      "id": "f_sabye",
+      "part_id": "P_f_sabye",
+      "name": "F Sabye",
+      "default_clef": "grand",
+      "handpans": [
+        {
+          "name": "F Sabye",
+          "notes": [
+            "D3",
+            "F3",
+            "G3",
+            "A3",
+            "Bb3",
+            "C4",
+            "D4",
+            "E4",
+            "F4",
+            "G4",
+            "A4",
+            "C5",
+            "D5",
+            "E5",
+            "F5"
+          ]
+        }
+      ],
+      "allowed_notes": [
+        "D3",
+        "F3",
+        "G3",
+        "A3",
+        "Bb3",
+        "C4",
+        "D4",
+        "E4",
+        "F4",
+        "G4",
+        "A4",
+        "C5",
+        "D5",
+        "E5",
+        "F5"
+      ],
+      "allowed_midi": [
+        50,
+        53,
+        55,
+        57,
+        58,
+        60,
+        62,
+        64,
+        65,
+        67,
+        69,
+        72,
+        74,
+        76,
+        77
+      ],
+      "range": {
+        "lowest": "D3",
+        "highest": "F5",
+        "lowest_midi": 50,
+        "highest_midi": 77
+      }
+    },
+    {
+      "id": "alto",
+      "part_id": "P_alto",
+      "name": "Alto",
+      "default_clef": "grand",
+      "handpans": [
+        {
+          "name": "D3 handpan",
+          "notes": [
+            "D3",
+            "A3",
+            "B3",
+            "C4",
+            "D4",
+            "E4",
+            "F4",
+            "G4",
+            "A4"
+          ]
+        },
+        {
+          "name": "C#3 handpan",
+          "notes": [
+            "C#3",
+            "G#3",
+            "A#3",
+            "B3",
+            "C#4",
+            "D#4",
+            "E4",
+            "F#4",
+            "G#4"
+          ]
+        }
+      ],
+      "allowed_notes": [
+        "C#3",
+        "D3",
+        "G#3",
+        "A3",
+        "A#3",
+        "B3",
+        "C4",
+        "C#4",
+        "D4",
+        "D#4",
+        "E4",
+        "F4",
+        "F#4",
+        "G4",
+        "G#4",
+        "A4"
+      ],
+      "allowed_midi": [
+        49,
+        50,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69
+      ],
+      "range": {
+        "lowest": "C#3",
+        "highest": "A4",
+        "lowest_midi": 49,
+        "highest_midi": 69
+      }
+    },
+    {
+      "id": "bass_1",
+      "part_id": "P_bass_1",
+      "name": "Bass 1",
+      "default_clef": "bass",
+      "handpans": [
+        {
+          "name": "C3 handpan",
+          "notes": [
+            "C3",
+            "D3",
+            "E3",
+            "F3",
+            "G3",
+            "A3",
+            "B3"
+          ]
+        },
+        {
+          "name": "B2 handpan",
+          "notes": [
+            "B2",
+            "C#3",
+            "D#3",
+            "E3",
+            "F#3",
+            "G#3",
+            "A#3"
+          ]
+        }
+      ],
+      "allowed_notes": [
+        "B2",
+        "C3",
+        "C#3",
+        "D3",
+        "D#3",
+        "E3",
+        "F3",
+        "F#3",
+        "G3",
+        "G#3",
+        "A3",
+        "A#3",
+        "B3"
+      ],
+      "allowed_midi": [
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59
+      ],
+      "range": {
+        "lowest": "B2",
+        "highest": "B3",
+        "lowest_midi": 47,
+        "highest_midi": 59
+      }
+    },
+    {
+      "id": "bass_2",
+      "part_id": "P_bass_2",
+      "name": "Bass 2",
+      "default_clef": "bass",
+      "handpans": [
+        {
+          "name": "F2 handpan",
+          "notes": [
+            "F2",
+            "C3",
+            "F3",
+            "C4",
+            "F4"
+          ]
+        },
+        {
+          "name": "Bb2 handpan",
+          "notes": [
+            "Bb2",
+            "F3",
+            "Bb3",
+            "F4",
+            "Bb4"
+          ]
+        },
+        {
+          "name": "A2 handpan",
+          "notes": [
+            "A2",
+            "E3",
+            "A3",
+            "E4",
+            "A4"
+          ]
+        }
+      ],
+      "allowed_notes": [
+        "F2",
+        "A2",
+        "Bb2",
+        "C3",
+        "E3",
+        "F3",
+        "A3",
+        "Bb3",
+        "C4",
+        "E4",
+        "F4",
+        "A4",
+        "Bb4"
+      ],
+      "allowed_midi": [
+        41,
+        45,
+        46,
+        48,
+        52,
+        53,
+        57,
+        58,
+        60,
+        64,
+        65,
+        69,
+        70
+      ],
+      "range": {
+        "lowest": "F2",
+        "highest": "Bb4",
+        "lowest_midi": 41,
+        "highest_midi": 70
+      }
+    }
+  ],
+  "rules": [
+    "Exactly seven players; one part per player; a grand staff remains one player part.",
+    "Soprano 1 and 2 each have both specified handpans. Do not label every note by handpan.",
+    "D Celtic and F Sabye intentionally have the identical user-supplied note set.",
+    "Range is display-only; validate each actual pitch against exact allowed_midi.",
+    "Preserve original accidental spelling in handpans; enharmonic equivalents match by MIDI.",
+    "Clefs are configurable defaults; grand means treble and bass within one part.",
+    "Use one chosen composer OR arranger credit, editable; no assumed copyright year.",
+    "Every page requires the copyright footer, including page 1.",
+    "This project uses the user-confirmed composer credit and one-line 2026 copyright above.",
+    "Bass 2 uses a single bass staff in the current score; high whitelist notes are not the usual arranging range.",
+    "F major score spelling uses Bb rather than A# for MIDI 70; a physical note whitelist does not authorize all chromatic notes in this piece."
+  ],
+  "upstream_profile_id": "panlab-seven-player-2026-10-30",
+  "project_preferences": {
+    "key": {
+      "name": "F major",
+      "fifths": -1,
+      "use_Bb_spelling": true
+    },
+    "bass_2": {
+      "preferred_lowest_midi": [
+        41,
+        45,
+        46
+      ],
+      "optional_second_lowest_midi": [
+        48,
+        52,
+        53
+      ],
+      "C_major_example": {
+        "bass_2": 48,
+        "bass_1": 55
+      }
+    },
+    "terminology_note": "Current part identities are D Celtic and F Sabye. The latest spoken D & F# wording is retained as a style note, not authorization to rename, replace note sets or transpose.",
+    "scope_note": "This is a project snapshot, not a live-plugin configuration update; recheck the current instruments before composing."
+  }
+}
