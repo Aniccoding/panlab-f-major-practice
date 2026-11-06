@@ -34,5 +34,5 @@
 - 網站：<https://aniccoding.github.io/panlab-f-major-practice/>
 - Repository：<https://github.com/Aniccoding/panlab-f-major-practice>
 - 舊作已發佈：`downloads/`；大小與 SHA-256：`download-manifest.json`。
-- 新作檔案使用獨立 namespace：`scale-study-20261107/downloads/`；manifest：`scale-study-20261107/download-manifest.json`。目前記錄為**本機驗證通過、公開發佈及正式網址驗證待完成**，未完成前不可宣稱已可公開下載。
+- 新作檔案使用獨立 namespace：`scale-study-20261107/downloads/`；manifest：`scale-study-20261107/download-manifest.json`。2026-11-07 已完成公開發佈及正式網址驗證；[新作下載頁](https://aniccoding.github.io/panlab-f-major-practice/scale-study-20261107/) 可未登入下載，34 檔大小及 SHA-256 全部吻合。
 - GitHub Pages 使用 `main` 分支根目錄及 `.nojekyll`。此專案是 GitHub Pages 靜態下載頁，並非另一個 Sites 託管專案。

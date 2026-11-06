@@ -1,6 +1,6 @@
 # 新作：F Major — Scale & Pulse Study（2026-11-07）
 
-狀態更新：**2026-11-07（香港時間）**。**本機創作、匯出及驗證完成；公開發佈與正式網址驗證待完成。**
+狀態更新：**2026-11-07（香港時間）**。**創作、匯出、公開發佈及正式下載驗證完成。**
 
 這是使用者明確授權的另一首練習曲，取代 2026-10-31 那一輪「只記錄、暫不改編」的任務範圍。舊作 [F Major — Ensemble Practice](CURRENT_PROJECT.md) 的 335 音版本、下載檔案及 manifest 保留，新作另存及交付。
 
@@ -52,9 +52,9 @@ Composer metadata 為 `Hailey.S and Ting Ho Fung @Panlab Limited`，arranger 留
 - 七份分譜：A4 直向、10 pt 音名，各一頁。兩份 Soprano 各五行：**1–4／5–8／9–11／12–14／15–17**，B♭／C 音名有清楚間距。
 - 總譜及 Soprano 1 的 rehearsal mark 為 A、B；音名不與符桿、其他音名或下一譜表重疊。
 
-## 交付檔案與待發佈位置
+## 交付檔案與公開位置
 
-預定公開頁面相對路徑為 `scale-study-20261107/`；本輪記錄時尚未確認正式網址可用。
+[手機下載頁](https://aniccoding.github.io/panlab-f-major-practice/scale-study-20261107/) 已公開，可分別下載樂譜及 MP3，或下載完整 ZIP。頁面相對路徑為 `scale-study-20261107/`。
 
 | Repository 位置 | 內容 |
 | --- | --- |
@@ -74,7 +74,7 @@ Composer metadata 為 `Hailey.S and Ting Ho Fung @Panlab Limited`，arranger 留
 
 16 個 MP3 均約 **45.5 秒**，包括 42.5 秒的 17 小節及結尾餘韻。Click 版本有 **68 個四分拍**，每小節第一拍加重，由第 1 小節第一拍開始，沒有預備小節；分譜保留全曲時間及休止。
 
-## 2026-11-07 驗證證據與未完成項目
+## 2026-11-07 驗證證據
 
 已完成的本機驗證：
 
@@ -86,6 +86,12 @@ Composer metadata 為 `Hailey.S and Ting Ho Fung @Panlab Limited`，arranger 留
 - ZIP 的 33 個 entries、完整性、大小及雜湊已核對。
 - 本機下載頁在實際 390×844 手機版面檢查通過，無橫向溢出；8 個聲部卡、16 個音訊播放器、34 個下載連結完整。新作 manifest 全部檔案雜湊通過；舊作 34 個下載檔案保持原樣。
 
-**待完成**：將新作發佈至 GitHub Pages，確認 Pages build、正式 HTTPS 頁面、各下載檔案及 MP3 播放，再按實際證據更新此頁狀態。尚未完成遠端驗證，不把本機通過寫成公開交付完成。
+公開驗證於 2026-11-07 01:30（香港時間）完成：
+
+- 發佈 commit：`5aed6f6e68ee9708b22dc7c45d81f57ae826501b`；GitHub Pages run `42261414583` 成功，Pages build 狀態 `built`。
+- 新頁、共用 CSS／JS、manifest 及 34 個下載檔案，共 **38 次未登入 HTTPS GET 全部 200**；頁面、manifest 及所有檔案大小／SHA-256 與本機一致。
+- 公開 ZIP 的 33 個 entries 通過 CRC 及逐檔內容雜湊；瀏覽器實際下載的 ZIP 亦與上述 SHA-256 完全一致。
+- 正式網址的總譜 Harp 及 Harp＋Click 均實際解碼播放，45.5 秒，沒有 media error；播放另一軌會自動暫停上一軌。
+- 簡明機器可讀證據見 [verification.json](../scale-study-20261107/verification.json)。本輪要求的交付項目已完成。
 
 操作注意事項（包括 `add_lyrics` 附加文字與 rich-text 標記）見 [WORKFLOW.md](WORKFLOW.md)。

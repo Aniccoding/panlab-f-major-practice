@@ -103,4 +103,4 @@ Chrome extension 的 `fileChooser.setFiles` 當時因未開啟 `Allow access to 
 
 網站更新後核對實際 Pages build／公開 HTTPS 回應，再測試代表性下載及音訊。檔案有改動時更新 `download-manifest.json`，只包含公開的相對路徑、大小及 SHA-256。勿將私人 Drive 連結、雲端譜存取碼或本機個人路徑寫進公開來源。
 
-2026-11-07 新作使用獨立 `scale-study-20261107/` namespace，其檔案位於 `scale-study-20261107/downloads/`，並有自己的 `scale-study-20261107/download-manifest.json`。舊作 `downloads/` 及原 manifest 保留。新作目前完成本機驗證，公開發佈與正式網址驗證待完成；確認 Pages build 及遠端檔案後，再更新 [新作狀態](SCALE_PULSE_20261107.md)，不要僅憑本機產物宣稱已發佈。
+2026-11-07 新作使用獨立 `scale-study-20261107/` namespace，其檔案位於 `scale-study-20261107/downloads/`，並有自己的 `scale-study-20261107/download-manifest.json`。舊作 `downloads/` 及原 manifest 保留。新作已完成本機及公開驗證：Pages 部署成功，38 次未登入 GET 全 200、34 檔雜湊吻合、ZIP 33 entries 內容核對通過，瀏覽器亦完成 ZIP 下載及 Harp／Click 播放。詳見 [新作狀態](SCALE_PULSE_20261107.md)；後續更新仍須重新核對實際發佈，不僅憑本機產物宣稱已上線。

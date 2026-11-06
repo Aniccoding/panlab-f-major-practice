@@ -1,0 +1,57 @@
+{
+  "verified_at": "2026-11-07T01:30:06+08:00",
+  "status": "pass",
+  "score_title": "F Major — Scale & Pulse Study",
+  "deploy_commit": "5aed6f6e68ee9708b22dc7c45d81f57ae826501b",
+  "github_pages_run": 42261414583,
+  "github_pages_conclusion": "success",
+  "public_url": "https://aniccoding.github.io/panlab-f-major-practice/scale-study-20261107/",
+  "score": {
+    "measures": 17,
+    "players": 7,
+    "staves": 10,
+    "notes": 352,
+    "letter_only_note_names": 352,
+    "key_fifths": -1,
+    "time_signature": "4/4",
+    "native_reopened_and_mcp_readback": true,
+    "handpan_whitelist_violations": 0
+  },
+  "pdf": {
+    "files": 8,
+    "pages": 10,
+    "visual_review": "pass"
+  },
+  "audio": {
+    "mp3_files": 16,
+    "sound": "MuseScore Basic Harp",
+    "gm_program_zero_based": 46,
+    "duration_seconds": 45.5,
+    "click_beats": 68,
+    "extra_harmony_playback": false
+  },
+  "public_downloads": {
+    "unauthenticated_http_gets": 38,
+    "all_http_200": true,
+    "files": 34,
+    "total_bytes": 22421359,
+    "all_sizes_and_sha256_match": true
+  },
+  "zip": {
+    "entries": 33,
+    "bytes": 11086644,
+    "sha256": "518a41daa364ab254604a3c218e9d1e3dcdb61135d97b628a6625badb8f466d6",
+    "crc_pass": true,
+    "all_entry_contents_match": true,
+    "browser_download_sha256_matches": true
+  },
+  "browser": {
+    "local_mobile_css_viewport": [
+      390,
+      844
+    ],
+    "no_horizontal_overflow": true,
+    "public_clean_and_click_playback": "pass",
+    "auto_pause_previous_audio": "pass"
+  }
+}
