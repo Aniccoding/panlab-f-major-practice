@@ -1,14 +1,15 @@
 # 專案知識索引
 
-整理日期：**2026-10-31，Asia/Hong_Kong**。
+整理日期：**2026-11-07，Asia/Hong_Kong**；保留 2026-10-31 的歷史決定與驗證紀錄。
 
 這套文件保存使用者在本次對話中確認的作曲風格、七人合奏規格、歷次更正、參考方法及交付經驗，讓另一個 Codex session 讀 GitHub 後可以接手。這是專案知識紀錄，並非逐字聊天紀錄。
 
 | 文件 | 用途 |
 | --- | --- |
 | [AGENTS.md](../AGENTS.md) | Codex 接手入口、必讀順序與邊界 |
-| [COMPOSITION_STYLE.md](COMPOSITION_STYLE.md) | 長期作曲風格，以及最新提出但尚未改寫入樂譜的方向 |
-| [CURRENT_PROJECT.md](CURRENT_PROJECT.md) | 17 小節 F major 練習曲的固定規格、現版檔案與驗證證據 |
+| [COMPOSITION_STYLE.md](COMPOSITION_STYLE.md) | 長期作曲風格；各作品實際採用情況另見該作品文件 |
+| [SCALE_PULSE_20261107.md](SCALE_PULSE_20261107.md) | 目前新作：四分／八分分段、字母音名、352 音、本機驗證與待發佈狀態 |
+| [CURRENT_PROJECT.md](CURRENT_PROJECT.md) | 歷史作品：2026-10-31 Ensemble Practice 的規格、335 音及已交付證據 |
 | [INSTRUMENTS.md](INSTRUMENTS.md) | 七位演奏者、名稱更正、譜號、Bass 分工及音庫限制 |
 | [instruments-seven-player.json](../data/instruments-seven-player.json) | 可程式驗證的逐音白名單與本專案預設 |
 | [WORKFLOW.md](WORKFLOW.md) | MuseScore MCP、原生 Harp、匯出、手機下載及已遇到的工具問題 |
@@ -17,15 +18,16 @@
 
 ## 現在停在哪裡
 
-17 小節練習曲已交付，總譜、七份分譜、harp／click demos 及完整 ZIP 已放在公開 GitHub Pages。**最新指令只要求記住風格並保存到 GitHub；沒有開始下一輪改編。**
+2026-11-07 使用者明確要求創作另一首 **F Major — Scale & Pulse Study**，並進一步確認所有音符只標示字母音名。新作共 17 小節、352 個音，8 PDF／8 MSCZ／16 Harp 與 Click MP3 及 33-entry ZIP 已完成本機驗證；**公開發佈及正式網址驗證待完成**。詳見 [新作文件](SCALE_PULSE_20261107.md)。
 
-最新風格文件比現行樂譜更完整；不能因此宣稱現行樂譜已按這一輪新增風格重新編排。後續若要求改寫，先保留可回復版本，再按照新任務進行。
+2026-10-31 的 **F Major — Ensemble Practice** 已交付並公開，保留原來 `downloads/` 及 manifest。當日「只記錄、暫不改編」是歷史任務範圍，已被這次明確的新作授權取代；沒有回頭改寫或覆蓋舊作。長期風格不等於每一作品已全部實作，應讀各版本的具體要求及證據。
 
 ## 資訊類別
 
 - **使用者確認**：例如 Soprano 1 是明顯、好聽的主旋律；Bass 2 主要用 F2／A2／B♭2，也可用 C3。
-- **本次實作選擇**：例如 96 BPM、沒有預備拍、現版 Bass 2 只用三個最低音。
-- **已驗證狀態**：例如 34 個公開下載檔案的 HTTP 回應、大小及 SHA-256 核對通過。
-- **待後續任務核對**：最新「D & F#」說法是否指不同實體樂器；本輪沒有要求更改現有 D Celtic／F Sabye 標籤及音庫。
+- **本次實作選擇**：例如 96 BPM、沒有預備拍；舊作 Bass 2 只用三個最低音，新作亦用 C3。
+- **已驗證狀態**：舊作 34 個公開下載檔案的 HTTP、大小及 SHA-256 已核對；新作目前完成本機譜面、音名、原生開啟及音訊驗證。
+- **待完成狀態**：新作公開發佈及正式網址檢查；不能把本機驗證寫成已發佈。
+- **待後續任務核對**：「D & F#」說法是否指不同實體樂器；新作仍沿用 D Celtic／F Sabye 標籤及音庫，沒有自行改名或移調。
 
 公開文件不包含私人譜的 access code、私人 Drive 連結、帳戶權限資料或個人電腦的絕對路徑。相關作品名稱與編曲研究已保留，後續需要查看私人原譜時，透過使用者授權的登入及 MuseScore 介面存取。

@@ -1,0 +1,172 @@
+[
+  {
+    "path": "downloads/Audio/Harp/01-Full-Score-96BPM-Harp.mp3",
+    "bytes": 814940,
+    "sha256": "6362764740d86476b3da1b841a3d25e1ebb9c87efd8fa0fdf47a862ef6c32674"
+  },
+  {
+    "path": "downloads/Audio/Harp/02-Soprano-1-96BPM-Harp.mp3",
+    "bytes": 800984,
+    "sha256": "2f82a8de8662f928c342f124e471b438909d4f5f964b474258fe4ab751e8cf2e"
+  },
+  {
+    "path": "downloads/Audio/Harp/03-Soprano-2-96BPM-Harp.mp3",
+    "bytes": 733703,
+    "sha256": "b2b0f298f3e53d33f666eba90bb33997ac79f91d9a44179a0a50d60959f1ec4c"
+  },
+  {
+    "path": "downloads/Audio/Harp/04-D-Celtic-96BPM-Harp.mp3",
+    "bytes": 501119,
+    "sha256": "28f40d1bddd22edcd7dd271715ab7089bf7550f189925af5d1782851b6d412f4"
+  },
+  {
+    "path": "downloads/Audio/Harp/05-F-Sabye-96BPM-Harp.mp3",
+    "bytes": 486321,
+    "sha256": "aadbe4bae74764a3f67250b02b9c7decdd30b63edea43e5a2161d34363d149d5"
+  },
+  {
+    "path": "downloads/Audio/Harp/06-Alto-96BPM-Harp.mp3",
+    "bytes": 671377,
+    "sha256": "cd81d7d1ee9ae2680ec8d1b9c045fa6480d4820a971d4208d12f9b0e1edb8078"
+  },
+  {
+    "path": "downloads/Audio/Harp/07-Bass-1-96BPM-Harp.mp3",
+    "bytes": 654643,
+    "sha256": "0b92e46720ed509a39b244851adcbfadaade4c3c399f5e1418fe36ab816b175a"
+  },
+  {
+    "path": "downloads/Audio/Harp/08-Bass-2-96BPM-Harp.mp3",
+    "bytes": 579880,
+    "sha256": "4e625a05c71674ee8a640d606594a527a399be9ffbce774c2b75d3d6def7367b"
+  },
+  {
+    "path": "downloads/Audio/Harp-with-Click/01-Full-Score-96BPM-Harp-with-Click.mp3",
+    "bytes": 818230,
+    "sha256": "e99345e03a374bbaf8bcfbb437cc6d655961ec414fa931154fcadebe48ba179d"
+  },
+  {
+    "path": "downloads/Audio/Harp-with-Click/02-Soprano-1-96BPM-Harp-with-Click.mp3",
+    "bytes": 805048,
+    "sha256": "a550ac2a4d0ab95c1a39ac3831b89668a7af154af80fa9951c5a15d2ab2a1e9e"
+  },
+  {
+    "path": "downloads/Audio/Harp-with-Click/03-Soprano-2-96BPM-Harp-with-Click.mp3",
+    "bytes": 736030,
+    "sha256": "70c034b7643e9a0dd04f06ccdeb52c27e80197afede51d952cf80691b732185e"
+  },
+  {
+    "path": "downloads/Audio/Harp-with-Click/04-D-Celtic-96BPM-Harp-with-Click.mp3",
+    "bytes": 566254,
+    "sha256": "6f055269e3ed1a52baff95c44c5186cc19a4908242660bff8867ae7576fb6d87"
+  },
+  {
+    "path": "downloads/Audio/Harp-with-Click/05-F-Sabye-96BPM-Harp-with-Click.mp3",
+    "bytes": 556296,
+    "sha256": "595a974f87df08bb70f54209568bce8c608bbed2002e8ed3d13789bb404ae129"
+  },
+  {
+    "path": "downloads/Audio/Harp-with-Click/06-Alto-96BPM-Harp-with-Click.mp3",
+    "bytes": 690673,
+    "sha256": "d7b391cd9d8a4adcfacd3e26c765aa4e9ab7bfcdcbb58bdb9e1b1ffac23bfd73"
+  },
+  {
+    "path": "downloads/Audio/Harp-with-Click/07-Bass-1-96BPM-Harp-with-Click.mp3",
+    "bytes": 659936,
+    "sha256": "d3bda3cb1b020182d9cac71c847f9ff1755539cdf37b3d6a0d5555b77efc9907"
+  },
+  {
+    "path": "downloads/Audio/Harp-with-Click/08-Bass-2-96BPM-Harp-with-Click.mp3",
+    "bytes": 572147,
+    "sha256": "c8a7abdecc093215ea0a6c9b5c2c356a03c185bd0a380b1071c2e986f8056002"
+  },
+  {
+    "path": "downloads/F-Major-Scale-Pulse-Study-Note-Names-Panlab-2026-11-07.zip",
+    "bytes": 11086644,
+    "sha256": "518a41daa364ab254604a3c218e9d1e3dcdb61135d97b628a6625badb8f466d6"
+  },
+  {
+    "path": "downloads/README.txt",
+    "bytes": 1394,
+    "sha256": "9640e5e42301f1ca131fe8b7a6edb2d65ea806c30db58195d2c53348d8a3e1f3"
+  },
+  {
+    "path": "downloads/Scores/MuseScore/01-Full-Score.mscz",
+    "bytes": 99482,
+    "sha256": "565dd9ff69bc16789cb8a66389d46f64c94987a4aba594a7c5414c01213e3a66"
+  },
+  {
+    "path": "downloads/Scores/MuseScore/02-Soprano-1.mscz",
+    "bytes": 39810,
+    "sha256": "4e863b012ccb1910a549750f54062f8e8235c376b32a76cb7cb2fd42f089d0c8"
+  },
+  {
+    "path": "downloads/Scores/MuseScore/03-Soprano-2.mscz",
+    "bytes": 37817,
+    "sha256": "49c9cbdb7aec3379f56ee5ebc3c6c7a35ded60f3f7d58ba0e4eb17678c001617"
+  },
+  {
+    "path": "downloads/Scores/MuseScore/04-D-Celtic.mscz",
+    "bytes": 36004,
+    "sha256": "e4fe73872d8970de09b4c4a074cd761ec5b44529384c98bb8a54d81ad1c0b11f"
+  },
+  {
+    "path": "downloads/Scores/MuseScore/05-F-Sabye.mscz",
+    "bytes": 35806,
+    "sha256": "619c2d88fa1788867823eb9db49bbf4ffb74f76ad3da9bf553c980c1395961e9"
+  },
+  {
+    "path": "downloads/Scores/MuseScore/06-Alto.mscz",
+    "bytes": 39486,
+    "sha256": "8a8e13965c81c57710427e9a850c6c47f8618c051e51cd1bde63a22af3398b41"
+  },
+  {
+    "path": "downloads/Scores/MuseScore/07-Bass-1.mscz",
+    "bytes": 32715,
+    "sha256": "df821f4b58a113f60d778f1d2c5c45b9fd6fb2a95c2e7d6db8216ec7beee0e66"
+  },
+  {
+    "path": "downloads/Scores/MuseScore/08-Bass-2.mscz",
+    "bytes": 31696,
+    "sha256": "68ee5f8da68c40eb1e92d09486b6d65aceff0cdcc1f448717f595a3e62abef09"
+  },
+  {
+    "path": "downloads/Scores/PDF/01-Full-Score.pdf",
+    "bytes": 74822,
+    "sha256": "95c10876aa5297521b89c135f2aed27ce40a1b56e4ec7b8ae74d86ebdd406e0d"
+  },
+  {
+    "path": "downloads/Scores/PDF/02-Soprano-1.pdf",
+    "bytes": 52322,
+    "sha256": "abf987fb5094b42b3fa91f7041bb4ea23d692d20c169c60c4d1a3b365a44c718"
+  },
+  {
+    "path": "downloads/Scores/PDF/03-Soprano-2.pdf",
+    "bytes": 36419,
+    "sha256": "5642d19d0ce4b6de4c8191db08b7ac11050dd95d9b5ae485c032550849d9851e"
+  },
+  {
+    "path": "downloads/Scores/PDF/04-D-Celtic.pdf",
+    "bytes": 34306,
+    "sha256": "0e41090ef34a8382bb03c0b75a7aff812fac69121c38a60ab57125879c7074bb"
+  },
+  {
+    "path": "downloads/Scores/PDF/05-F-Sabye.pdf",
+    "bytes": 34375,
+    "sha256": "d14f12de426b47eb202930c0760522818150d7ec3f019b1a734c46e4e2db825d"
+  },
+  {
+    "path": "downloads/Scores/PDF/06-Alto.pdf",
+    "bytes": 36482,
+    "sha256": "4c6f4d8b91f58102fc8fe4dcbd4e006b06cb8f78ea3ae05e514df15309fa8d98"
+  },
+  {
+    "path": "downloads/Scores/PDF/07-Bass-1.pdf",
+    "bytes": 32229,
+    "sha256": "1a40b213786b656773269c0aa25cd0f7d218fda2000cb86f46388473511b7b44"
+  },
+  {
+    "path": "downloads/Scores/PDF/08-Bass-2.pdf",
+    "bytes": 31969,
+    "sha256": "9fcdf72eccedc6f5efed30f417452387789f10410e2c45f5ae60742120a991fb"
+  }
+]

@@ -1,6 +1,8 @@
-# 本次作品：F Major — Ensemble Practice
+# 歷史作品：F Major — Ensemble Practice（2026-10-31）
 
 狀態整理：**2026-10-31（香港時間）**。
+
+本頁保留 2026-10-31 已交付作品的原有規格與證據。**目前新作**是 [F Major — Scale & Pulse Study（2026-11-07）](SCALE_PULSE_20261107.md)，兩者各有獨立檔案及 manifest；新作沒有覆蓋本頁的 335 音版本。
 
 ## 使用者確認的作品規格
 
@@ -40,7 +42,7 @@ Composer metadata：`Hailey.S and Ting Ho Fung @Panlab Limited`。本作品 arra
 
 年份及排法是本作品的已確認選擇；不照搬舊雲端譜的年份或兩行排法。
 
-## 現行已交付版本
+## 2026-10-31 已交付版本
 
 可見標題：`F Major — Ensemble Practice`。當時另存的重寫版本檔名含 `F-Major-Ensemble-Practice-Revised`；本 repository 中總譜使用穩定名稱 `downloads/Scores/MuseScore/01-Full-Score.mscz`。
 
@@ -50,7 +52,7 @@ Composer metadata：`Hailey.S and Ting Ho Fung @Panlab Limited`。本作品 arra
 - Soprano 1 有句尾留白；Soprano 2 有回應、齊奏、交叉及音程配合。
 - 逐八分拍位置檢查，現版兩個 Soprano 無半音或大七度音級碰撞。這是本版檢查結果，不是使用者永久禁止所有經過音不協和。
 - D Celtic／F Sabye 在本版較多輪流填句；Alto 前八小節弱拍四分和弦，後八小節加入反拍八分和弦。
-- Bass 2 在本版只使用 F2／A2／B♭2。最新風格已明確容許 C3；本輪只記錄，未回頭改譜。
+- Bass 2 在本版只使用 F2／A2／B♭2。當時風格已明確容許 C3，但 2026-10-31 只記錄，未回頭改譜；2026-11-07 的獨立新作已使用 C3。
 - 七個 part，共十個譜表：D Celtic、F Sabye、Alto 各自是兩行大譜表，其餘各一行。
 
 | 聲部 | 現版 MIDI note-on 數量 |
@@ -81,10 +83,12 @@ Composer metadata：`Hailey.S and Ting Ho Fung @Panlab Limited`。本作品 arra
 
 所有 MP3 使用原生 MuseScore Basic Harp；每個約 45.5 秒，包括結尾餘韻。Click 版本 68 個四分拍，第一拍加重，由第 1 小節第一拍開始，**沒有額外預備小節**。分譜音訊保留完整 17 小節時間及休止。
 
-## 已驗證與尚未執行
+## 歷史驗證與後續版本
 
 2026-10-31 已驗證：live MuseScore 逐聲部讀回、七人音庫、F major 調號、八個原生檔案、九頁 PDF 排版、原生 Harp／停用和弦自動發聲、十六個 MP3；正式網站 38 次未登入 HTTP GET 全部 200，34 個下載檔案大小及 SHA-256 與本機一致。瀏覽器實際 ZIP 下載及正式網址 MP3 播放通過。
 
 最初發佈網站與檔案的 commit：`7519a70cb286329b0ce7684cd2af76d6070f7188`。
 
-**尚未執行**：依使用者最新長期風格，再次重寫此作品。使用者明確說本輪只記住及保存，不做下一步；本次文件更新不改任何已交付樂譜或音訊。
+**當時的任務範圍**：2026-10-31 使用者只要求記住風格及保存知識，沒有再改編這一份作品。
+
+**2026-11-07 後續**：使用者已授權另一首新練習曲，詳見 [SCALE_PULSE_20261107.md](SCALE_PULSE_20261107.md)。新作的 352 音、分段節奏及字母音名是獨立要求，不追溯改變本頁舊作；舊作下載檔案繼續保留。
